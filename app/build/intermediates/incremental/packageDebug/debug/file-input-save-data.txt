@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Thu Apr 12 23:56:47 GMT+08:00 2018
+2.base=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+count=7
+0.file=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu\\main.xml
+5.base=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.set=NATIVE_RESOURCE
+6.base=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.file=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=DEX
+0.base=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=G\:\\MyWorkSpace\\dn_live\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0\\lib\\armeabi\\libdn_live.so
+0.set=ANDROID_RESOURCE
